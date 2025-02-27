@@ -1,0 +1,11 @@
+#myButton{
+    font-size: 4rem;
+    padding: 10px 14px;
+    border: none;
+    border-radius: 5px;
+}
+
+.enable{
+    background-color: #5266e8;
+     color: white;
+}

@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+#container{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    overflow: hidden;
+    position: relative;
+}
